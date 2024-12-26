@@ -1,0 +1,565 @@
+Date,Time,Remark,Category,Mode,Credit,Debit,Balance
+01-Mar-23,12:00 AM,Budget,Money,Online,5000,,5000
+02-Mar-23,6:00 PM,Cashback,Bonus,Google Pay,5,,5005
+03-Mar-23,8:00 PM,Cashback,Bonus,Paytm,100,,5105
+04-Mar-23,8:00 AM,Bhel,Food,Cash,,50,5055
+05-Mar-23,9:15 AM,"Sinnar to Shivaji Nagar, Pune",Travel,Cash,,260,4795
+06-Mar-23,3:00 PM,Shivaji Nagar to Fursungi,Travel,Cash,,25,4770
+07-Mar-23,5:00 PM,Sprite,Drink,Cash,,20,4750
+08-Mar-23,7:45 PM,Fursungi to Pune Station,Travel,Cash,,20,4730
+09-Mar-23,10:30 PM,Vadapav,Food,Cash,,20,4710
+10-Mar-23,7:45 AM,Pohe,Food,Amazon Pay,,10,4700
+11-Mar-23,7:55 AM,Tea,Drink,Amazon Pay,,10,4690
+12-Mar-23,12:15 PM,Bhaji Poli,Food,Amazon Pay,,50,4640
+13-Mar-23,9:00 PM,Rice Plate,Food,Paytm,,50,4590
+14-Mar-23,9:30 PM,Lassi,Drink,Paytm,,20,4570
+15-Mar-23,10:00 PM,Room Key,Labour Charges,Amazon Pay,,30,4540
+16-Mar-23,10:00 PM,Cashback,Bonus,Paytm,10,,4550
+17-Mar-23,7:45 AM,Tea,Food,Google Pay,,10,4540
+18-Mar-23,12:30 PM,Bhaji Poli,Food,Google Pay,,50,4490
+19-Mar-23,9:37 PM,Tiffin,Food,Google Pay,,60,4430
+20-Mar-23,12:30 PM,Maggie,Food,Cash,,30,4400
+21-Mar-23,5:00 PM,Vadapav,Food,Google Pay,,15,4385
+22-Mar-23,6:00 PM,Bed & Pillow,Personal,Paytm,,550,3835
+23-Mar-23,8:00 PM,Anand Clinic - Checkup & Medicines,Health,Paytm,,150,3685
+24-Mar-23,8:15 PM,Cashback,Bonus,Paytm,10,,3695
+25-Mar-23,10:30 PM,Rice Plate,Food,Amazon Pay,,45,3650
+26-Mar-23,11:00 PM,Kulfi,Dessert,Cash,,20,3630
+27-Mar-23,8:00 AM,Upma,Food,Paytm,,20,3610
+28-Mar-23,12:15 PM,Bhaji Poli,Food,Paytm,,50,3560
+29-Mar-23,9:00 PM,Tiffin,Food,Paytm,,40,3520
+30-Mar-23,8:00 AM,Umpa,Food,Paytm,,10,3510
+31-Mar-23,12:15 PM,Tiffin,Food,Paytm,,40,3470
+01-Apr-23,4:00 PM,Pune Station to Fursungi,Travel,Cash,,20,3450
+02-Apr-23,4:00 PM,Fursungi to Pune Station,Travel,Cash,,20,3430
+03-Apr-23,9:00 PM,Bhaji Poli,Food,Google Pay,,30,3400
+04-Apr-23,9:20 PM,Room Rent - March 2022,Rent,Google Pay,,2800,600
+05-Apr-23,9:30 PM,Room Stuff Contri,Maintenance,Google Pay,,135,465
+06-Apr-23,8:00 AM,Upma,Food,Google Pay,,10,455
+07-Apr-23,12:30 PM,Bhaji Poli,Food,Cash,,40,415
+08-Apr-23,9:00 PM,Bhaji Poli,Food,Google Pay,,30,385
+09-Apr-23,9:05 PM,Cashback,Bonus,Amazon Pay,3,,388
+10-Apr-23,1:00 PM,Pulaw,Food,PhonePe,,40,348
+11-Apr-23,3:30 PM,Mirinda,Drink,Paytm,,20,328
+12-Apr-23,9:15 PM,Bhaji Poli,Food,Google Pay,,30,298
+13-Apr-23,8:00 AM,Upma,Food,Amazon Pay,,10,288
+14-Apr-23,12:30 PM,Bhaji Poli,Food,Paytm,,55,233
+15-Apr-23,8:15 PM,Bhaji Poli,Food,Paytm,,35,198
+16-Apr-23,12:30 PM,Bhaji Poli,Food,Google Pay,,55,143
+17-Apr-23,1:00 PM,Cashback,Bonus,Google Pay,5,,148
+18-Apr-23,6:00 PM,Cashback,Bonus,Paytm,100,,248
+19-Apr-23,12:00 AM,Budget,Money,Online,7000,,7248
+20-Apr-23,8:00 AM,Pohe,Food,Google Pay,,20,7228
+21-Apr-23,12:00 PM,Masala Dosa,Food,Google Pay,,30,7198
+22-Apr-23,9:00 PM,Masala Dosa,Food,Google Pay,,50,7148
+23-Apr-23,9:15 PM,Cold Coffee,Food,Paytm,,20,7128
+24-Apr-23,8:27 PM,Manchurian,Food,Google Pay,,80,7048
+25-Apr-23,9:00 PM,Sugarcane Juice,Food,Google Pay,,20,7028
+26-Apr-23,9:00 AM,Upma,Food,Google Pay,,10,7018
+27-Apr-23,2:30 PM,Pulaw,Food,Google Pay,,40,6978
+28-Apr-23,8:24 PM,Chicken Biryani,Food,Google Pay,,55,6923
+29-Apr-23,12:30 PM,Bhaji Poli,Food,Google Pay,,50,6873
+30-Apr-23,8:30 AM,Vadapav,Food,Google Pay,,15,6858
+01-May-23,12:30 PM,Bhaji Poli,Food,Google Pay,,40,6818
+02-May-23,8:30 PM,Panipuri,Dessert,Google Pay,,20,6798
+03-May-23,12:15 PM,Bhaji Poli,Food,Paytm,,40,6758
+04-May-23,9:00 PM,Room Rent - April 2022,Rent,Google Pay,,2800,3958
+05-May-23,11:00 AM,Pen,College,Paytm,,10,3948
+06-May-23,12:30 PM,Bhaji Poli,Food,Amazon Pay,,40,3908
+07-May-23,1:00 PM,Fried Rice,Food,Google Pay,,60,3848
+08-May-23,12:15 PM,Misal Pav,Food,Google Pay,,60,3788
+09-May-23,8:00 PM,Grooming,Personal,Google Pay,,100,3688
+10-May-23,9:26 PM,Shampoo,Personal,Paytm,,4,3684
+11-May-23,9:26 PM,Bhaji Poli,Food,Google Pay,,50,3634
+12-May-23,8:30 AM,Tea,Drink,Paytm,,10,3624
+13-May-23,12:20 PM,Masala Dosa,Food,Google Pay,,30,3594
+14-May-23,12:40 PM,Lassi,Drink,Google Pay,,35,3559
+15-May-23,12:00 PM,Bhaji Poli,Food,Google Pay,,50,3509
+16-May-23,12:30 PM,Bhaji Poli,Food,Google Pay,,40,3469
+17-May-23,6:15 PM,Pune Station to Fursungi,Travel,Cash,,25,3444
+18-May-23,9:00 AM,Fursungi to Pune Station,Travel,Cash,,20,3424
+19-May-23,1:00 PM,Maggie,Food,Google Pay,,35,3389
+20-May-23,1:20 PM,Flavoured Milk,Drink,Google Pay,,25,3364
+21-May-23,6:00 PM,Cashback,Bonus,Google Pay,5,,3369
+22-May-23,9:00 PM,Bhaji Poli,Food,Google Pay,,40,3329
+23-May-23,9:40 PM,Lassi,Drink,Google Pay,,35,3294
+24-May-23,12:30 PM,Samosa Chaat,Food,Google Pay,,30,3264
+25-May-23,9:00 AM,Upma,Food,Google Pay,,10,3254
+26-May-23,12:30 PM,Bhel,Food,Google Pay,,30,3224
+27-May-23,4:00 PM,Dry Manchurian,Food,Google Pay,,20,3204
+28-May-23,1:00 PM,Pulaw,Food,Paytm,,40,3164
+29-May-23,5:00 PM,Tea,Drink,Google Pay,,10,3154
+30-May-23,12:15 PM,Misal,Food,Google Pay,,65,3089
+31-May-23,12:45 PM,Lassi,Drink,Google Pay,,17,3072
+01-Jun-23,8:00 PM,Room Agreement,Rent,Google Pay,,313,2759
+02-Jun-23,10:20 AM,Vada Sambhar,Food,Google Pay,,40,2719
+03-Jun-23,2:30 PM,Sponge Dosa,Food,Google Pay,,30,2689
+04-Jun-23,3:00 PM,8 Bananas,Food,Google Pay,,30,2659
+05-Jun-23,5:55 PM,Tea,Drink,Paytm,,10,2649
+06-Jun-23,12:30 PM,Triple Rice,Food,Google Pay,,50,2599
+07-Jun-23,5:30 PM,Light Bill - March 2022,Maintenance,Amazon Pay,,142,2457
+08-Jun-23,6:00 PM,Cashback,Bonus,Amazon Pay,3,,2460
+09-Jun-23,11:00 AM,Paratha,Food,Google Pay,,50,2410
+10-Jun-23,1:00 PM,Mop,Maintenance,Amazon Pay,,36,2374
+11-Jun-23,1:00 PM,Harpic,Maintenance,Google Pay,,8,2366
+12-Jun-23,3:00 PM,Pune Station to Alandi,Travel,Cash,,25,2341
+13-Jun-23,8:15 PM,Chaat,Food,Google Pay,,55,2286
+14-Jun-23,8:45 PM,Alandi to Pune Station,Travel,Cash,,30,2256
+15-Jun-23,6:00 PM,Cashback,Bonus,Amazon Pay,3,,2259
+16-Jun-23,8:30 PM,Dry Manchurian,Food,PhonePe,,20,2239
+17-Jun-23,8:50 PM,Mango Juice,Drink,PhonePe,,10,2229
+18-Jun-23,10:00 AM,Pohe,Food,Google Pay,,20,2209
+19-Jun-23,10:20 AM,Tea,Drink,Google Pay,,10,2199
+20-Jun-23,12:00 PM,Bhaji Poli,Food,Google Pay,,40,2159
+21-Jun-23,12:30 PM,Kokam,Drink,Google Pay,,10,2149
+22-Jun-23,5:00 PM,Panipuri,Dessert,Google Pay,,15,2134
+23-Jun-23,12:00 PM,Stationary,College,Google Pay,,15,2119
+24-Jun-23,12:30 PM,Aloo Paratha,Food,Google Pay,,30,2089
+25-Jun-23,4:30 PM,Bisleri,Drink,Google Pay,,20,2069
+26-Jun-23,12:30 PM,Masala Dosa,Food,Google Pay,,30,2039
+27-Jun-23,6:00 PM,Panipuri,Dessert,Google Pay,,30,2009
+28-Jun-23,6:00 PM,Triveni Mess,Food,Google Pay,,1400,609
+29-Jun-23,8:30 PM,Chicken Biryani,Food,Google Pay,,55,554
+30-Jun-23,9:30 AM,Tea,Drink,Google Pay,,10,544
+01-Jul-23,12:15 PM,SPDP,Food,Google Pay,,30,514
+02-Jul-23,4:45 PM,Bisleri,Drink,Google Pay,,20,494
+03-Jul-23,6:30 PM,Bread Sandwich,Food,Google Pay,,15,479
+04-Jul-23,9:30 AM,Tea,Drink,Google Pay,,10,469
+05-Jul-23,12:00 PM,Bhaji Poli,Food,Google Pay,,40,429
+06-Jul-23,3:45 PM,Lassi,Drink,Google Pay,,35,394
+07-Jul-23,6:00 PM,Break Sandwich,Food,Google Pay,,15,379
+08-Jul-23,10:00 AM,Swimming Pool,Health,Google Pay,,30,349
+09-Jul-23,11:30 AM,Vadapav,Food,Google Pay,,20,329
+10-Jul-23,8:15 PM,Veg Biryani,Food,Google Pay,,45,284
+11-Jul-23,11:50 PM,Icecream,Dessert,Google Pay,,30,254
+12-Jul-23,12:00 AM,Budget,Money,Online,7000,,7254
+13-Jul-23,8:00 AM,Interest,Bonus,Online,6,,7260
+14-Jul-23,9:30 AM,Tea,Drink,Google Pay,,10,7250
+15-Jul-23,8:50 PM,Chhole Bature,Food,Google Pay,,80,7170
+16-Jul-23,9:00 PM,Bisleri,Drink,Google Pay,,30,7140
+17-Jul-23,9:00 AM,Cashback,Bonus,Google Pay,51,,7191
+18-Jul-23,11:30 AM,Sponge Dosa,Food,Google Pay,,30,7161
+19-Jul-23,9:00 PM,Pavbhaji,Food,Paytm,,35,7126
+20-Jul-23,8:00 AM,Swimming Pool,Health,Google Pay,,60,7066
+21-Jul-23,10:30 AM,Samosa,Food,Google Pay,,20,7046
+22-Jul-23,3:00 PM,Wada Pav,Food,Google Pay,,20,7026
+23-Jul-23,8:30 PM,Pulaw,Food,Google Pay,,60,6966
+24-Jul-23,12:15 PM,Aloo Paratha,Food,Google Pay,,30,6936
+25-Jul-23,1:30 PM,Print,College,Google Pay,,13,6923
+26-Jul-23,3:00 PM,Swimming,Health,Google Pay,,30,6893
+27-Jul-23,4:30 PM,Tea,Drink,Google Pay,,10,6883
+28-Jul-23,10:00 PM,Cashback,Bonus,Amazon Pay,3,,6886
+29-Jul-23,1:30 PM,Sabudana Khichdi,Food,Google Pay,,40,6846
+30-Jul-23,2:00 PM,Banana,Food,Google Pay,,20,6826
+31-Jul-23,11:00 PM,Icecream,Dessert,Google Pay,,20,6806
+01-Aug-23,12:15 PM,Puri Bhaji,Food,Google Pay,,50,6756
+02-Aug-23,12:45 PM,Mathha,Drink,Google Pay,,20,6736
+03-Aug-23,12:20 AM,Icecream,Dessert,Google Pay,,30,6706
+04-Aug-23,12:00 PM,Pulaw,Food,Amazon Pay,,60,6646
+05-Aug-23,1:45 PM,Cashback,Bonus,Amazon Pay,6,,6652
+06-Aug-23,11:42 PM,Icecream,Dessert,Google Pay,,20,6632
+07-Aug-23,10:45 AM,Tea,Drink,Google Pay,,10,6622
+08-Aug-23,12:00 PM,Patis,Food,Google Pay,,25,6597
+09-Aug-23,8:30 PM,Veg Burger,Food,Google Pay,,84,6513
+10-Aug-23,8:30 PM,Petrol,Maintenance,Google Pay,,10,6503
+11-Aug-23,12:00 PM,Bhaji Poli,Food,Google Pay,,50,6453
+12-Aug-23,10:30 PM,Icecream,Dessert,Google Pay,,30,6423
+13-Aug-23,12:00 PM,Aloo Paratha,Food,Google Pay,,40,6383
+14-Aug-23,1:00 PM,IOT Lab Manual,College,Google Pay,,61,6322
+15-Aug-23,7:15 PM,Lassi,Drink,Google Pay,,40,6282
+16-Aug-23,6:00 AM,Swimming,Health,Google Pay,,30,6252
+17-Aug-23,10:00 AM,DSA Codes & Outputs,College,PhonePe,,65,6187
+18-Aug-23,11:00 AM,File & Pages,College,Google Pay,,24,6163
+19-Aug-23,12:54 PM,Egg Curry,Food,PhonePe,,45,6118
+20-Aug-23,1:00 PM,Print,College,Cash,,15,6103
+21-Aug-23,5:23 PM,Room Rent - May 2022,Rent,Google Pay,,2800,3303
+22-Aug-23,5:25 PM,Cashback,Bonus,Google Pay,4,,3307
+23-Aug-23,10:30 PM,Cold Coffee,Drink,Google Pay,,15,3292
+24-Aug-23,12:00 PM,Aloo Paratha,Food,Google Pay,,30,3262
+25-Aug-23,3:30 PM,Code of Conduct,College,Google Pay,,16,3246
+26-Aug-23,3:45 PM,File,College,Google Pay,,25,3221
+27-Aug-23,10:30 PM,Icecream,Dessert,Google Pay,,30,3191
+28-Aug-23,10:05 AM,Cashback,Bonus,Amazon Pay,25,,3216
+29-Aug-23,11:00 AM,Certificates Print,College,Google Pay,,29,3187
+30-Aug-23,12:30 PM,Bhaji Poli,Food,Google Pay,,55,3132
+31-Aug-23,4:30 PM,Pune Station to Sinnar,Travel,Cash,,270,2862
+01-Sep-23,8:50 PM,Kulfi,Dessert,Cash,,20,2842
+02-Sep-23,9:06 PM,Biscuits,Food,Cash,,10,2832
+03-Sep-23,3:45 PM,Sinnar to Pune Station,Travel,Cash,,270,2562
+04-Sep-23,6:00 PM,Banana Chips,Food,Google Pay,,100,2462
+05-Sep-23,9:15 PM,Pulaw,Food,Google Pay,,60,2402
+06-Sep-23,1:30 PM,Bhaji Poli,Food,Google Pay,,45,2357
+07-Sep-23,2:00 PM,Exam Form Print,College,Google Pay,,15,2342
+08-Sep-23,8:00 PM,Maya's Mess,Food,Google Pay,,70,2272
+09-Sep-23,1:30 PM,Sponge Dosa,Food,Google Pay,,30,2242
+10-Sep-23,2:00 PM,Sugarcane Juice,Drink,Google Pay,,10,2232
+11-Sep-23,6:16 PM,5 Tea,Drink,Google Pay,,50,2182
+12-Sep-23,7:03 PM,Cashback,Bonus,Google Pay,54,,2236
+13-Sep-23,9:15 PM,Pav,Food,Google Pay,,10,2226
+14-Sep-23,9:30 PM,Kadhai Paneer,Food,Google Pay,,35,2191
+15-Sep-23,10:21 AM,Shampoo,Personal,Google Pay,,4,2187
+16-Sep-23,12:00 PM,Puri Bhaji,Food,Google Pay,,40,2147
+17-Sep-23,8:15 PM,Tandoor Biryani,Food,Google Pay,,65,2082
+18-Sep-23,5:30 PM,Pizza,Food,Paytm,,49,2033
+19-Sep-23,6:30 PM,Tea,Drink,Google Pay,,10,2023
+20-Sep-23,8:00 PM,Milk,Drink,Google Pay,,15,2008
+21-Sep-23,1:00 PM,Aloo Paratha,Food,Google Pay,,40,1968
+22-Sep-23,5:00 PM,Tea,Drink,Google Pay,,10,1958
+23-Sep-23,10:00 PM,Bhaji Poli Tiffin,Food,Google Pay,,60,1898
+24-Sep-23,9:30 AM,Wadapav,Food,Google Pay,,15,1883
+25-Sep-23,2:00 PM,Aloo Paratha,Food,Google Pay,,25,1858
+26-Sep-23,5:00 PM,Tea,Drink,Google Pay,,10,1848
+27-Sep-23,6:00 PM,Light Bill - April 2022,Maintenance,Google Pay,,184,1664
+28-Sep-23,10:00 PM,Bhaji Poli Tiffin,Food,Google Pay,,60,1604
+29-Sep-23,10:30 PM,Icecream,Dessert,Google Pay,,30,1574
+30-Sep-23,2:00 PM,Rice Plate,Food,Google Pay,,50,1524
+01-Oct-23,6:15 PM,Tea,Drink,Google Pay,,10,1514
+02-Oct-23,8:30 PM,Noodles,Food,Google Pay,,43,1471
+03-Oct-23,1:00 PM,Fruit Plate,Food,Google Pay,,30,1441
+04-Oct-23,2:30 PM,Kurkure,Food,Google Pay,,5,1436
+05-Oct-23,5:50 PM,Shampoo,Personal,Cash,,10,1426
+06-Oct-23,8:30 PM,Biryani,Food,Google Pay,,74,1352
+07-Oct-23,9:30 PM,Sealing Tape,Personal,Google Pay,,12,1340
+08-Oct-23,12:00 PM,Cashback,Bonus,Google Pay,5,,1345
+09-Oct-23,1:45 PM,Pawale Misal,Food,Google Pay,,70,1275
+10-Oct-23,8:30 PM,Masala Cut Dosa,Food,Google Pay,,45,1230
+11-Oct-23,9:00 PM,Sugarcane Juice,Drink,Google Pay,,10,1220
+12-Oct-23,9:30 AM,Indori Pohe,Food,Google Pay,,20,1200
+13-Oct-23,9:45 AM,Tea,Drink,Google Pay,,10,1190
+14-Oct-23,10:15 AM,KEM Hospital to Rajiv Gandhi Zoo,Travel,Google Pay,,20,1170
+15-Oct-23,10:40 AM,Rajiv Gandhi Zoo,Travel,Google Pay,,40,1130
+16-Oct-23,12:45 PM,Sugarcane Juice,Drink,Google Pay,,20,1110
+17-Oct-23,12:50 PM,Rajiv Gandhi Zoo to Natu Baug,Travel,Google Pay,,10,1100
+18-Oct-23,1:00 PM,Rin Soap,Personal,Google Pay,,17,1083
+19-Oct-23,1:05 PM,Dant Kanti Toothpaste,Personal,Google Pay,,70,1013
+20-Oct-23,1:15 PM,Chheda Banana Chips,Food,Google Pay,,37,976
+21-Oct-23,1:35 PM,Carry Bag,Personal,Google Pay,,6,970
+22-Oct-23,1:45 PM,Softy,Dessert,Google Pay,,15,955
+23-Oct-23,2:30 PM,Natu Baug to KEM Hospital,Travel,Google Pay,,15,940
+24-Oct-23,8:45 PM,Dabeli,Food,Google Pay,,15,925
+25-Oct-23,9:10 PM,Ragada Patis,Food,Google Pay,,30,895
+26-Oct-23,10:15 PM,Badam Shake,Drink,Google Pay,,35,860
+27-Oct-23,10:15 AM,Keto-Z Soap,Personal,Google Pay,,85,775
+28-Oct-23,1:00 PM,Aloo Paratha,Food,Google Pay,,40,735
+29-Oct-23,9:00 PM,Bhaji Poli Tiffin,Food,Google Pay,,60,675
+30-Oct-23,10:30 AM,Tari Pohe,Food,Google Pay,,20,655
+31-Oct-23,8:00 PM,Cut Masala Dosa,Food,Google Pay,,45,610
+01-Nov-23,12:00 AM,Budget,Money,Online,6000,,6610
+02-Nov-23,1:30 PM,Wada Sambhar,Food,Google Pay,,40,6570
+03-Nov-23,5:15 PM,Pune Station to Sinnar,Travel,Cash,,270,6300
+04-Nov-23,9:30 PM,Dabeli,Food,Google Pay,,15,6285
+05-Nov-23,9:45 PM,Biscuits,Food,Google Pay,,10,6275
+06-Nov-23,8:00 PM,Room Rent - June 2022,Rent,Google Pay,,2800,3475
+07-Nov-23,8:00 PM,Water Can,Maintenance,Google Pay,,107,3368
+08-Nov-23,7:30 AM,Sinnar to Fursungi,Travel,Cash,,250,3118
+09-Nov-23,6:00 PM,Plumber,Maintenance,Google Pay,,100,3018
+10-Nov-23,11:00 AM,Fursungi to Pune Station,Travel,Cash,,20,2998
+11-Nov-23,5:30 PM,Tea,Drink,Google Pay,,10,2988
+12-Nov-23,8:30 PM,Veg Burger,Food,Google Pay,,50,2938
+13-Nov-23,12:30 PM,Grocery,Food,Google Pay,,281,2657
+14-Nov-23,6:30 PM,Tea,Drink,Google Pay,,10,2647
+15-Nov-23,8:00 PM,Paneer Garlic Bread,Food,Google Pay,,30,2617
+16-Nov-23,7:40 PM,Pav,Food,Paytm,,7,2610
+17-Nov-23,7:45 PM,Paneer Makhani,Food,Google Pay,,35,2575
+18-Nov-23,6:15 PM,Tea,Drink,Google Pay,,10,2565
+19-Nov-23,6:40 PM,4 Amul Milk,Drink,Google Pay,,60,2505
+20-Nov-23,8:30 PM,Pavbhaji,Food,Google Pay,,40,2465
+21-Nov-23,9:00 AM,Kokani Pohe,Food,Google Pay,,20,2445
+22-Nov-23,5:30 PM,Tea,Drink,Google Pay,,10,2435
+23-Nov-23,10:00 PM,Bhel,Food,Google Pay,,35,2400
+24-Nov-23,12:35 PM,Shabudana Khichdi,Food,Google Pay,,50,2350
+25-Nov-23,8:15 PM,Tawa Pulaw,Food,Google Pay,,50,2300
+26-Nov-23,7:45 AM,Dahi Pohe,Food,Google Pay,,25,2275
+27-Nov-23,12:30 PM,Aloo Paratha,Food,Google Pay,,40,2235
+28-Nov-23,6:20 PM,Tea,Drink,Google Pay,,10,2225
+29-Nov-23,8:15 PM,Pen,College,Paytm,,20,2205
+30-Nov-23,8:45 PM,Sponge Dosa,Food,Paytm,,40,2165
+01-Dec-23,7:00 AM,Indori Pohe,Food,Google Pay,,20,2145
+02-Dec-23,1:00 PM,Bhaji Poli,Food,Google Pay,,50,2095
+03-Dec-23,7:00 PM,Triveni Mess,Food,Google Pay,,300,1795
+04-Dec-23,8:00 PM,Dum Biryani,Food,Google Pay,,55,1740
+05-Dec-23,1:00 PM,Misal,Food,Google Pay,,60,1680
+06-Dec-23,1:10 PM,Pav,Food,Google Pay,,14,1666
+07-Dec-23,9:00 PM,Grocery,Food,Google Pay,,88,1578
+08-Dec-23,9:00 AM,2 Samose,Food,Google Pay,,36,1542
+09-Dec-23,8:15 PM,Dosa,Food,Google Pay,,30,1512
+10-Dec-23,7:45 AM,Kurkure Pohe,Food,Google Pay,,20,1492
+11-Dec-23,1:30 PM,Misal Pav,Food,Google Pay,,70,1422
+12-Dec-23,6:00 PM,Tea,Drink,Google Pay,,10,1412
+13-Dec-23,11:30 AM,Bhaji Poli,Food,Google Pay,,50,1362
+14-Dec-23,12:00 PM,Shampoo,Personal,Google Pay,,6,1356
+15-Dec-23,6:06 PM,Tea,Drink,Google Pay,,5,1351
+16-Dec-23,7:00 PM,Chips,Food,Google Pay,,20,1331
+17-Dec-23,9:00 PM,Bhaji Poli,Food,Google Pay,,50,1281
+18-Dec-23,9:00 AM,Tea,Drink,Google Pay,,10,1271
+19-Dec-23,1:00 PM,Bhaji Poli,Food,Google Pay,,50,1221
+20-Dec-23,8:00 PM,Bhaji Poli,Food,Google Pay,,50,1171
+21-Dec-23,7:00 PM,Tea,Drink,Google Pay,,10,1161
+22-Dec-23,8:15 PM,Bhurji Pav,Food,Google Pay,,50,1111
+23-Dec-23,8:25 PM,Pav,Food,Google Pay,,9,1102
+24-Dec-23,8:40 PM,Cashback,Bonus,Google Pay,3,,1105
+25-Dec-23,7:45 AM,Upma,Food,Google Pay,,10,1095
+26-Dec-23,8:00 AM,Tea,Drink,Google Pay,,10,1085
+27-Dec-23,1:30 PM,Tawa Pulaw,Food,Google Pay,,50,1035
+28-Dec-23,12:15 PM,Bhaji Poli,Food,Google Pay,,50,985
+29-Dec-23,5:30 PM,Coffee,Drink,Google Pay,,10,975
+30-Dec-23,1:00 PM,Aloo Paratha,Food,Google Pay,,40,935
+31-Dec-23,5:30 PM,Tea,Food,Google Pay,,10,925
+01-Jan-24,6:45 PM,Kurkure,Food,Google Pay,,20,905
+02-Jan-24,8:00 AM,Upma,Food,Google Pay,,10,895
+03-Jan-24,12:30 PM,Pulaw,Food,Google Pay,,40,855
+04-Jan-24,6:00 PM,Bhaje,Food,Google Pay,,20,835
+05-Jan-24,6:10 PM,Tea,Drink,Google Pay,,10,825
+06-Jan-24,12:00 AM,Budget,Money,Online,3840,,4665
+07-Jan-24,12:45 PM,Chilli Cheese Burger 🍔,Food,Google Pay,,60,4605
+08-Jan-24,5:30 PM,Tea,Drink,Google Pay,,10,4595
+09-Jan-24,6:00 PM,Tea,Drink,Google Pay,,10,4585
+10-Jan-24,10:30 PM,Tea,Drink,Google Pay,,10,4575
+11-Jan-24,2:00 PM,Badam Shake,Drink,Google Pay,,35,4540
+12-Jan-24,7:30 PM,Chips and Biscuits,Food,Google Pay,,44,4496
+13-Jan-24,8:00 AM,Upma,Food,Google Pay,,10,4486
+14-Jan-24,8:10 AM,Tea,Drink,Google Pay,,10,4476
+15-Jan-24,12:45 PM,Chicken Fried Rice,Food,Google Pay,,55,4421
+16-Jan-24,2:30 PM,Vetal Tekadi,Travel,Google Pay,,30,4391
+17-Jan-24,9:00 PM,Veg Burger 🍔,Food,Google Pay,,50,4341
+18-Jan-24,10:30 PM,Light Bill - May 2022,Maintenance,Google Pay,,206,4135
+19-Jan-24,11:00 AM,Wada Sambhar,Food,Google Pay,,40,4095
+20-Jan-24,11:30 AM,Tea,Drink,Google Pay,,10,4085
+21-Jan-24,6:00 PM,Pune Station to Sinnar,Travel,Cash,,365,3720
+22-Jan-24,5:00 PM,Room Rent - July 2022,Rent,Google Pay,,2800,920
+23-Jan-24,8:00 AM,Sinnar to Pune,Travel,Cash,,260,660
+24-Jan-24,1:00 PM,Wakdewadi to Fursungi,Travel,Cash,,25,635
+25-Jan-24,2:00 PM,Peas,Food,Cash,,10,625
+26-Jan-24,6:30 PM,Fursungi to Pune Station,Travel,Cash,,20,605
+27-Jan-24,8:30 PM,Egg Rice,Food,Google Pay,,60,545
+28-Jan-24,12:00 PM,Electrician,Maintenance,Google Pay,,50,495
+29-Jan-24,12:15 PM,Tester,Maintenance,Google Pay,,11,484
+30-Jan-24,12:20 PM,Chaat,Food,Paytm,,45,439
+31-Jan-24,5:00 PM,Wadapav,Food,Google Pay,,15,424
+01-Feb-24,5:30 PM,Coffee,Drink,Google Pay,,10,414
+02-Feb-24,12:05 PM,Egg Curry,Food,Google Pay,,55,359
+03-Feb-24,5:00 PM,Tea,Drink,Google Pay,,10,349
+04-Feb-24,10:00 AM,Wadapav,Food,Amazon Pay,,15,334
+05-Feb-24,12:30 PM,Bhaji Poli,Food,Google Pay,,50,284
+06-Feb-24,8:40 AM,Tea ☕,Drink,Google Pay,,10,274
+07-Feb-24,12:15 PM,Pawale Misal,Food,Google Pay,,70,204
+08-Feb-24,5:30 PM,Coffee ☕,Drink,Google Pay,,10,194
+09-Feb-24,12:15 PM,Sponge Dosa,Food,Google Pay,,40,154
+10-Feb-24,2:30 PM,Medical,Health,Google Pay,,40,114
+11-Feb-24,5:30 PM,Tea ☕,Drink,Google Pay,,10,104
+12-Feb-24,9:00 PM,Grocery,Food,Google Pay,,74,30
+13-Feb-24,5:00 PM,Tea ☕,Drink,Google Pay,,10,20
+14-Feb-24,9:30 PM,Ice Cream 🍨,Dessert,Google Pay,,20,0
+15-Feb-24,11:30 AM,Tea ☕,Drink,Google Pay,,10,-10
+16-Feb-24,5:30 PM,Ma.na.pa,Travel,Cash,,5,-15
+17-Feb-24,6:00 PM,Tea ☕,Drink,Google Pay,,6,-21
+18-Feb-24,7:00 PM,Panipuri,Dessert,Google Pay,,25,-46
+19-Feb-24,7:45 PM,Samosa,Food,Google Pay,,20,-66
+20-Feb-24,9:30 PM,Anjir Shake,Drink,Google Pay,,35,-101
+21-Feb-24,10:00 PM,Juna Bazar,Travel,Cash,,5,-106
+22-Feb-24,12:00 AM,Interest,Bonus,Online,3,,-103
+23-Feb-24,12:20 PM,Aloo Paratha,Food,Google Pay,,40,-143
+24-Feb-24,4:45 PM,Tea ☕,Drink,Google Pay,,10,-153
+25-Feb-24,10:00 AM,Tea ☕,Drink,Google Pay,,6,-159
+26-Feb-24,12:25 PM,Puri Bhaji,Food,Google Pay,,50,-209
+27-Feb-24,4:30 PM,Coffee ☕,Drink,Google Pay,,6,-215
+28-Feb-24,10:00 PM,Received From Pappa,Money,PhonePe,200,,-15
+29-Feb-24,7:40 AM,Upma,Food,Google Pay,,15,-30
+01-Mar-24,12:15 PM,Aloo Paratha,Food,Google Pay,,25,-55
+02-Mar-24,12:30 PM,Dabeli,Food,Google Pay,,15,-70
+03-Mar-24,5:45 PM,Tea ☕,Drink,Google Pay,,10,-80
+04-Mar-24,10:30 AM,Dabeli,Food,Google Pay,,15,-95
+05-Mar-24,12:30 PM,Pulaw,Food,Google Pay,,40,-135
+06-Mar-24,6:45 PM,Tea ☕,Drink,Google Pay,,10,-145
+07-Mar-24,7:00 PM,Cashback,Bonus,Google Pay,4,,-141
+08-Mar-24,9:00 AM,Tea ☕,Drink,Google Pay,,6,-147
+09-Mar-24,12:15 PM,Aloo Paratha,Food,Google Pay,,25,-172
+10-Mar-24,12:30 PM,Print,College,Cash,,1,-173
+11-Mar-24,5:00 PM,Tea ☕,Drink,Google Pay,,10,-183
+12-Mar-24,9:30 PM,Grocery,Food,Google Pay,,58,-241
+13-Mar-24,12:00 PM,Oreo,Food,Google Pay,,23,-264
+14-Mar-24,1:15 PM,Budget,Money,PhonePe,3000,,2736
+15-Mar-24,1:30 PM,Mentos,Dessert,Google Pay,,5,2731
+16-Mar-24,5:30 PM,Tea ☕,Drink,Google Pay,,10,2721
+17-Mar-24,9:00 PM,Mess,Food,Google Pay,44,,2765
+18-Mar-24,5:30 PM,Wadapav,Food,Google Pay,,15,2750
+19-Mar-24,5:45 PM,Tea ☕,Drink,Google Pay,,7,2743
+20-Mar-24,8:15 PM,Pulaw,Food,Google Pay,,50,2693
+21-Mar-24,8:40 PM,Dabeli,Food,Google Pay,,15,2678
+22-Mar-24,9:00 PM,Soda🥤,Drink,Google Pay,,10,2668
+23-Mar-24,12:20 PM,Rice Plate,Food,Google Pay,,50,2618
+24-Mar-24,3:00 PM,Farhan's Birthday 🎂,Bills,Paytm,,60,2558
+25-Mar-24,4:00 PM,Hand Wash,Maintenance,Google Pay,,15,2543
+26-Mar-24,4:00 PM,Krack Jack,Food,Google Pay,,10,2533
+27-Mar-24,4:15 PM,Coffee ☕,Drink,Google Pay,,6,2527
+28-Mar-24,9:40 AM,Room Rent - August 2022,Rent,Google Pay,,2800,-273
+29-Mar-24,6:00 PM,Patis,Food,Google Pay,,15,-288
+30-Mar-24,6:20 PM,Tea ☕,Drink,Google Pay,,10,-298
+31-Mar-24,7:45 AM,Tea ☕,Drink,Google Pay,,10,-308
+01-Apr-24,12:15 PM,Paneer Paratha,Food,Google Pay,,35,-343
+02-Apr-24,3:33 PM,Harish,Rent,Google Pay,400,,57
+03-Apr-24,5:15 PM,Tea ☕,Drink,Google Pay,,10,47
+04-Apr-24,10:30 PM,Received From Pappa,Money,PhonePe,2000,,2047
+05-Apr-24,11:30 AM,Print,College,Google Pay,,5,2042
+06-Apr-24,12:00 PM,Aloo Paratha,Food,Google Pay,,25,2017
+07-Apr-24,12:20 PM,Cashback,Bonus,Google Pay,4,,2021
+08-Apr-24,12:25 PM,Dabeli,Food,Google Pay,,15,2006
+09-Apr-24,5:00 PM,Patis,Food,Google Pay,,15,1991
+10-Apr-24,5:30 PM,Tea,Drink,Google Pay,,10,1981
+11-Apr-24,9:00 PM,Rakhi,Personal,Google Pay,,40,1941
+12-Apr-24,11:00 AM,Wada Sambhar,Food,Google Pay,,40,1901
+13-Apr-24,11:30 AM,Tea ☕,Drink,Google Pay,,10,1891
+14-Apr-24,1:00 PM,Wada Sambhar,Food,Google Pay,,40,1851
+15-Apr-24,3:30 PM,Pune Station to Fursungi,Travel,Cash,,20,1831
+16-Apr-24,5:15 PM,Fursungi to Pune Station,Travel,Cash,,20,1811
+17-Apr-24,6:15 PM,Tea ☕,Drink,Google Pay,,10,1801
+18-Apr-24,9:00 PM,Ice Cream 🍨,Dessert,Google Pay,,15,1786
+19-Apr-24,8:00 AM,Tea ☕,Drink,Google Pay,,10,1776
+20-Apr-24,11:00 AM,Received From Rahul Mama,Money,Google Pay,4000,,5776
+21-Apr-24,12:10 PM,Rice Plate,Food,Google Pay,,50,5726
+22-Apr-24,4:00 PM,Light Bill - August 2022,Maintenance,Google Pay,,458,5268
+23-Apr-24,4:30 PM,Light Connection,Maintenance,Google Pay,,48,5220
+24-Apr-24,5:45 PM,Education Loan,Money,Online,61100,,66320
+25-Apr-24,7:00 PM,College Fee,College,Online,,65044,1276
+26-Apr-24,8:00 PM,Veg Burger 🍔,Food,Google Pay,,50,1226
+27-Apr-24,8:30 PM,Ragda Patis,Food,Google Pay,,35,1191
+28-Apr-24,12:30 PM,Rice Plate,Food,Google Pay,,40,1151
+29-Apr-24,12:15 PM,Patis,Food,Google Pay,,15,1136
+30-Apr-24,12:30 PM,Samosa Chaat,Food,Google Pay,,30,1106
+01-May-24,1:00 PM,Cashback,Bonus,Google Pay,6,,1112
+02-May-24,3:00 PM,Coffee ☕,Drink,Google Pay,,6,1106
+03-May-24,7:00 PM,Grocery,Food,Google Pay,,71,1035
+04-May-24,11:00 PM,Masala Pav,Food,Google Pay,,50,985
+05-May-24,2:00 PM,Swargate,Travel,Cash,,10,975
+06-May-24,3:00 PM,2 Tea ☕,Drink,Google Pay,,20,955
+07-May-24,5:00 PM,3 Tea ☕,Food,Google Pay,,30,925
+08-May-24,6:00 PM,Received From Pappa,Money,PhonePe,1300,,2225
+09-May-24,7:00 PM,Monaco,Food,Google Pay,,28,2197
+10-May-24,6:00 PM,Ma. Na. Pa,Travel,Cash,,5,2192
+11-May-24,8:00 PM,Mini Thali,Food,Google Pay,,70,2122
+12-May-24,9:30 PM,Juna Bazaar,Travel,Cash,,5,2117
+13-May-24,10:00 PM,Ice Cream 🍨,Dessert,Google Pay,,20,2097
+14-May-24,10:00 AM,Pohe,Food,Google Pay,,20,2077
+15-May-24,12:20 PM,Samosa,Food,Google Pay,,15,2062
+16-May-24,6:00 PM,Tea ☕,Drink,Google Pay,,10,2052
+17-May-24,12:15 PM,Rice Plate 🍽️,Food,Google Pay,,40,2012
+18-May-24,12:55 PM,Cashback,Bonus,Google Pay,5,,2017
+19-May-24,8:00 PM,Mess,Food,Cash,,1300,717
+20-May-24,12:15 PM,Rice Plate 🍽️,Food,Google Pay,,40,677
+21-May-24,9:00 PM,Peas,Food,Google Pay,,5,672
+22-May-24,12:15 PM,Paneer Paratha,Food,Google Pay,,35,637
+23-May-24,9:00 PM,Ice Cream 🍨,Dessert,Google Pay,,25,612
+24-May-24,10:00 AM,Tea ☕,Drink,Google Pay,,10,602
+25-May-24,5:15 PM,Tea ☕,Drink,Google Pay,,10,592
+26-May-24,7:00 PM,Dry Manchurian,Food,Google Pay,,10,582
+27-May-24,9:15 AM,Upma,Food,Google Pay,,15,567
+28-May-24,9:45 AM,Tea ☕,Drink,Google Pay,,5,562
+29-May-24,8:00 PM,Tikka Biryani,Food,Google Pay,,65,497
+30-May-24,12:15 PM,Aloo Paratha,Food,Google Pay,,25,472
+31-May-24,12:45 PM,Dahi Bhel,Food,Google Pay,,30,442
+01-Jun-24,4:45 PM,Dry Manchurian,Food,Google Pay,,20,422
+02-Jun-24,5:10 PM,Tea ☕,Drink,Google Pay,,10,412
+03-Jun-24,10:10 AM,Tea ☕,Drink,Google Pay,,6,406
+04-Jun-24,12:15 PM,Rice Plate 🍽️,Food,Google Pay,,50,356
+05-Jun-24,2:00 PM,Received From Pappa,Money,PhonePe,100,,456
+06-Jun-24,3:00 PM,Bisleri,Drink,Google Pay,,20,436
+07-Jun-24,4:00 PM,Self Transfer,Money,Google Pay,22,,458
+08-Jun-24,5:00 PM,Pune to Sinnar,Travel,Cash,,300,158
+09-Jun-24,9:00 AM,Cash,Money,Cash,50,,208
+10-Jun-24,10:30 AM,Nashik,Travel,Cash,,70,138
+11-Jun-24,10:00 AM,Cash,Money,Cash,500,,638
+12-Jun-24,11:30 PM,Wakdewadi to Pune Station,Travel,Cash,,15,623
+13-Jun-24,12:15 PM,Rice Plate 🍽️,Food,Google Pay,,50,573
+14-Jun-24,5:00 PM,Tea ☕,Drink,Google Pay,,10,563
+15-Jun-24,5:30 PM,Bottle,Personal,Cash,,39,524
+16-Jun-24,5:30 PM,Bowl 🥣,Personal,Cash,,29,495
+17-Jun-24,5:30 PM,2 Pen 🖊️,College,Cash,,18,477
+18-Jun-24,10:00 AM,Wada Sambhar,Food,Google Pay,,15,462
+19-Jun-24,12:15 PM,Rice Plate 🍽️,Food,Google Pay,,50,412
+20-Jun-24,7:00 PM,Grocery,Food,Google Pay,,45,367
+21-Jun-24,8:52 PM,Garments,Personal,Cash,,130,237
+22-Jun-24,9:00 PM,Brahmastra - Movie,Entertainment,Google Pay,,200,37
+23-Jun-24,8:30 AM,Tea ☕,Drink,Google Pay,,10,27
+24-Jun-24,12:00 PM,Victory Theatre,Travel,Cash,,40,-13
+25-Jun-24,4:30 PM,Veg Burger 🍔,Food,Google Pay,,87,-100
+26-Jun-24,6:00 PM,Tea ☕,Drink,Google Pay,,10,-110
+27-Jun-24,8:00 PM,2 Bisleri,Drink,Cash,,40,-150
+28-Jun-24,9:00 PM,Wadapav,Food,Google Pay,,15,-165
+29-Jun-24,9:15 PM,Badam Shake,Drink,Google Pay,,30,-195
+30-Jun-24,2:00 PM,Soda🥤,Drink,Google Pay,,10,-205
+01-Jul-24,3:00 PM,Cashback,Bonus,Google Pay,10,,-195
+02-Jul-24,5:07 PM,Tea ☕,Drink,Cash,,10,-205
+03-Jul-24,7:00 PM,Received From Pappa,Money,PhonePe,2800,,2595
+04-Jul-24,9:00 PM,Room Rent - September 2022,Rent,Google Pay,,2800,-205
+05-Jul-24,5:00 PM,Tea ☕,Drink,Google Pay,,10,-215
+06-Jul-24,7:45 PM,Dum Biryani,Food,Google Pay,,80,-295
+07-Jul-24,11:00 AM,Received From Pappa,Money,Google Pay,800,,505
+08-Jul-24,12:20 PM,Aloo Paratha,Food,Google Pay,,25,480
+09-Jul-24,12:45 PM,Dabeli,Food,Google Pay,,15,465
+10-Jul-24,4:30 PM,Tea ☕,Drink,Google Pay,,10,455
+11-Jul-24,5:01 PM,Grocery,Food,Google Pay,,53,402
+12-Jul-24,7:00 PM,Biscuits,Food,Google Pay,,5,397
+13-Jul-24,12:15 PM,Bhaji Poli,Food,Google Pay,,40,357
+14-Jul-24,5:00 PM,Tea ☕,Drink,Google Pay,,5,352
+15-Jul-24,5:45 PM,Banana Chips,Food,Google Pay,,50,302
+16-Jul-24,12:00 PM,Samosa Chaat,Food,Google Pay,,30,272
+17-Jul-24,5:00 PM,Tea ☕,Drink,Google Pay,,10,262
+18-Jul-24,8:30 PM,Kulfi,Dessert,Google Pay,,25,237
+19-Jul-24,12:15 PM,Chhole Bhature,Food,Google Pay,,40,197
+20-Jul-24,5:00 PM,Tea ☕,Drink,Google Pay,,10,187
+21-Jul-24,12:45 PM,Misal & Mattha,Food,Google Pay,,126,61
+22-Jul-24,9:30 PM,Received From Pappa,Money,PhonePe,200,,261
+23-Jul-24,7:30 AM,Biscuits,Food,Google Pay,,15,246
+24-Jul-24,8:00 AM,Pune to Visapur,Travel,Cash,,15,231
+25-Jul-24,9:00 AM,Wadapav,Food,Google Pay,,15,216
+26-Jul-24,1:00 PM,Tea ☕,Drink,Google Pay,,15,201
+27-Jul-24,1:30 PM,Received From Mummy,Money,PhonePe,2000,,2201
+28-Jul-24,3:30 PM,Van,Travel,Google Pay,,40,2161
+29-Jul-24,3:50 PM,Visapur to Pune,Travel,Cash,,15,2146
+30-Jul-24,6:00 PM,Dry Manchurian,Food,Google Pay,,20,2126
+31-Jul-24,8:45 PM,Cashback,Bonus,Google Pay,6,,2132
+01-Aug-24,9:00 PM,Milk🥛,Drink,Google Pay,,15,2117
+02-Aug-24,10:30 AM,Wada Sambhar,Food,Google Pay,,30,2087
+03-Aug-24,10:50 AM,Tea ☕,Drink,Google Pay,,10,2077
+04-Aug-24,5:30 PM,Samosa,Food,Google Pay,,18,2059
+05-Aug-24,8:30 PM,Bhurji Pav,Food,Google Pay,,57,2002
+06-Aug-24,9:30 PM,Grocery,Food,Google Pay,,58,1944
+07-Aug-24,12:15 PM,Chhole Bhature,Food,Google Pay,,45,1899
+08-Aug-24,4:30 PM,Chips,Food,Cash,,10,1889
+09-Aug-24,8:45 PM,Soda🥤,Drink,Google Pay,,10,1879
+10-Aug-24,9:00 PM,Detergent,Maintenance,Google Pay,,10,1869
+11-Aug-24,12:30 PM,Veg Roll,Food,Google Pay,,50,1819
+12-Aug-24,4:00 PM,Tea ☕,Drink,Google Pay,,10,1809
+13-Aug-24,6:00 PM,Wadapav,Food,Google Pay,,20,1789
+14-Aug-24,12:30 PM,Puri Bhaji,Food,Google Pay,,45,1744
+15-Aug-24,5:00 PM,Tea ☕,Drink,Google Pay,,10,1734
+16-Aug-24,9:00 PM,Soap,Personal,Google Pay,,10,1724
+17-Aug-24,8:00 AM,Upma,Food,Google Pay,,15,1709
+18-Aug-24,9:00 AM,AISA,College,Google Pay,,100,1609
+19-Aug-24,10:00 AM,Prints,College,Google Pay,,15,1594
+20-Aug-24,12:15 PM,Bhurji Paratha,Food,Google Pay,,50,1544
+21-Aug-24,5:00 PM,Tea ☕,Drink,Google Pay,,9,1535
+22-Aug-24,5:30 PM,Cashback,Bonus,Google Pay,3,,1538
+23-Aug-24,8:00 PM,Mess,Food,Cash,,1300,238
+24-Aug-24,10:00 AM,Pohe,Food,Google Pay,,20,218
+25-Aug-24,12:30 PM,Misal Pav,Food,Google Pay,,30,188
+26-Aug-24,5:30 PM,Tea ☕,Drink,Google Pay,,10,178
+27-Aug-24,8:30 PM,Soda🥤,Drink,Google Pay,,10,168
+28-Aug-24,9:00 PM,Biscuits,Food,Google Pay,,10,158
+29-Aug-24,10:00 AM,Tea ☕,Drink,Google Pay,,10,148
+30-Aug-24,5:00 PM,Tea ☕,Drink,Google Pay,,10,138
+31-Aug-24,7:00 PM,Light Bill,Maintenance,Google Pay,,128,10
+01-Sep-24,7:00 AM,Baner Hills,Travel,Cash,,20,-10
+02-Sep-24,9:00 AM,Chips,Food,Google Pay,,40,-50
+03-Sep-24,11:15 AM,Wada Sambhar,Food,Google Pay,,15,-65
+04-Sep-24,11:30 AM,Tea ☕,Drink,Google Pay,,5,-70
+05-Sep-24,12:00 PM,Interest,Bonus,Online,5,,-65
+06-Sep-24,12:30 PM,Juna Bazaar,Travel,Cash,,20,-85
+07-Sep-24,1:30 PM,Pizza Party,Food,Google Pay,,20,-105
+08-Sep-24,5:45 PM,Tea ☕,Drink,Google Pay,,10,-115
+09-Sep-24,7:00 PM,Received From Mummy,Money,PhonePe,500,,385
+10-Sep-24,8:30 PM,Masala Cut Dosa,Food,Google Pay,,45,340
+11-Sep-24,9:30 AM,Tea ☕,Drink,Amazon Pay,,10,330
+12-Sep-24,5:00 PM,Tea ☕,Drink,Google Pay,,10,320
+13-Sep-24,10:00 AM,Breakfast,Food,Google Pay,,25,295
+14-Sep-24,4:30 PM,Breakfast,Food,Google Pay,,20,275
